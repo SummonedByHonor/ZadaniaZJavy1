@@ -1,0 +1,5 @@
+(Poziom 2) Napisz program, który w zależnośći od podanego znaku wyświetli krótki opis zwierzęcia zaczynającego się na daną literę, np.
+   "k" - "kot - ma cztery łapki, miauczy i łapie myszy"
+   "w" - "wiewiórka - skacze po drzewach i zbiera orzechy"
+   "a" - "anakonda - bardzo duży i groźny wąż"
+   Zastosuj dla 5-7 zwierząt, dla reszty literek wypisz  tekst "Nie znam żadnego zwierzaka na tę literę"
